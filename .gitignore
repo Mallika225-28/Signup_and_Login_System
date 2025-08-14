@@ -1,0 +1,22 @@
+# Virtual environment folders
+env/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+# Logs
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Django cache/migration leftovers
+*.pot
+*.py~
